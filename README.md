@@ -1,8 +1,17 @@
-### Hello!  May name is Phi Curran. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hello!  My name is Phil Curran. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning full-stack web development.
+### I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning full-stack web development.
 
-## **Coding skills:**
+### 📖 &nbsp;About Me
+
+🔭 I’m currently working on completing a coding bootcamp called <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.<br>
+🌱 I’m currently learning C# and MSTest.<br>
+😄 Pronouns: He/Him.<br>
+⚡ Fun fact: 
+
+### Please find me on LinkedIn for a more detailed description of my professional experience and training.
+
+### **Coding skills:**
 
 <a><img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/></a>
 <a><img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=239120"/></a>
@@ -25,7 +34,7 @@
 <a><img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
 <a><img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
 
-## **Software skills:**
+### **Software skills:**
 
 <a><img src="https://img.shields.io/badge/Adobe%20after%20affects-white?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD"/></a>
 <a><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-white?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=DA1F26"/></a>
@@ -42,12 +51,12 @@
 <a><img src="https://img.shields.io/badge/Sketch-white?style=for-the-badge&logo=sketch&logoColor=FFB387"/></a>
 <a><img src="https://img.shields.io/badge/Zoom-white?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/></a>
 
-## **Contact:**
+### **Contact:**
 
 <a href="https://www.linkedin.com/in/philcurran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
 <a href="mailto:pecurran@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
-## **Coding stats:**
+### **Coding stats:**
 
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=phil-curran&show_icons=true&theme=tokyonight" />
 <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phil-curran&layout=compact&theme=tokyonight" /><br>
