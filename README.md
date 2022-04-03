@@ -1,6 +1,6 @@
-# **Hello! I'm Phil Curran** ✨🐢
+### Hello!  May name is Phi Curran. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-## Currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning full-stack web development.
+## I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning full-stack web development.
 
 ## **Coding skills:**
 
