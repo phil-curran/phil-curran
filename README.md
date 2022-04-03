@@ -1,55 +1,57 @@
-## Hello!  My name is Phil Curran. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hello!  My name is Phil Curran. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning full-stack web development.
+## 📖 &nbsp;About Me
 
-### 📖 &nbsp;About Me
+I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning full-stack web development, and working towards the goal of becoming a software developer.
 
-🔭 I’m currently working on completing a coding bootcamp called <a href="https://www.epicodus.com/" target="_blank">Epicodus</a>.<br>
-🌱 I’m currently learning C# and MSTest.<br>
-😄 Pronouns: He/Him.<br>
-⚡ Fun fact: 
+I'm also a leader in the instructional design and educational technology space, having worked for startups and several 'big 10' universities across the country, developing online learning content that's touched thousands of students all over the world.
 
-### Please find me on LinkedIn for a more detailed description of my professional experience and training.
+Please find me on <a href="https://www.linkedin.com/in/philcurran/" target="_blank">LinkedIn</a> for more info about my work and professional interests.
 
 ### **Coding skills:**
 
-<a><img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/></a>
-<a><img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=239120"/></a>
-<a><img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6"/></a>
-<a><img src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=E44C30"/></a>
-<a><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26"/></a>
-<a><img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=f0db4f"/></a>
-<a><img src="https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=C21325"/></a>
-<a><img src="https://img.shields.io/badge/json-white?style=for-the-badge&logo=json&logoColor=5E5C5C"/></a>
-<a><img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=0769AD"/></a>
-<a><img src="https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=markdown&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=005C84"/></a>
-<a><img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=512BD4"/></a>
-<a><img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933"/></a>
-<a><img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837"/></a>
-<a><img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=FF6C37"/></a>
-<a><img src="https://img.shields.io/badge/Raspberry%20Pi-white?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/></a>
-<a><img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/></a>
-<a><img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/></a>
+<img src="https://img.shields.io/badge/Bootstrap-white?style=for-the-badge&logo=bootstrap&logoColor=563D7C"/>
+<img src="https://img.shields.io/badge/Bulma-white?style=for-the-badge&logo=bulma&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/C%23-white?style=for-the-badge&logo=c-sharp&logoColor=239120"/>
+<img src="https://img.shields.io/badge/CSS3-white?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/GIT-white?style=for-the-badge&logo=git&logoColor=E44C30"/>
+<img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-white?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=f0db4f"/>
+<img src="https://img.shields.io/badge/Jest-white?style=for-the-badge&logo=jest&logoColor=C21325"/>
+<img src="https://img.shields.io/badge/JetBrains-white?style=for-the-badge&logo=jetbrains&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/jQuery-white?style=for-the-badge&logo=jquery&logoColor=0769AD"/>
+<img src="https://img.shields.io/badge/json-white?style=for-the-badge&logo=json&logoColor=5E5C5C"/>
+<img src="https://img.shields.io/badge/Markdown-white?style=for-the-badge&logo=markdown&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-white?style=for-the-badge&logo=mysql&logoColor=005C84"/>
+<img src="https://img.shields.io/badge/.NET-white?style=for-the-badge&logo=dotnet&logoColor=512BD4"/>
+<img src="https://img.shields.io/badge/Node.js-white?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/npm-white?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+<img src="https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=Postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-white?style=for-the-badge&logo=Raspberry%20Pi&logoColor=A22846"/>
+<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/VisualStudio-white?style=for-the-badge&logo=visualstudio&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-white?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4"/>
+<img src="https://img.shields.io/badge/Webpack-white?style=for-the-badge&logo=Webpack&logoColor=8DD6F9"/>
 
 ### **Software skills:**
 
-<a><img src="https://img.shields.io/badge/Adobe%20after%20affects-white?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-white?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=DA1F26"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Illustrator-white?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20InDesign-white?style=for-the-badge&logo=Adobe%20InDesign&logoColor=FF3366"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Lightroom-white?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=31A8FF"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Photoshop-white?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=31A8FF"/></a>
-<a><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-white?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF"/></a>
-<a><img src="https://img.shields.io/badge/Audacity-white?style=for-the-badge&logo=audacity&logoColor=225bff"/></a>
-<a><img src="https://img.shields.io/badge/blender-white?style=for-the-badge&logo=blender&logoColor=F15B2A"/></a>
-<a><img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=5865F2"/></a>
-<a><img src="https://img.shields.io/badge/Google%20Meet-white?style=for-the-badge&logo=google-meet&logoColor=00897B"/></a>
-<a><img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=black"/></a>
-<a><img src="https://img.shields.io/badge/Sketch-white?style=for-the-badge&logo=sketch&logoColor=FFB387"/></a>
-<a><img src="https://img.shields.io/badge/Zoom-white?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/></a>
+<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-white?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=DA1F26"/>
+<img src="https://img.shields.io/badge/Adobe%20after%20affects-white?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=CF96FD"/>
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-white?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=9999FF"/>
+<img src="https://img.shields.io/badge/Audacity-white?style=for-the-badge&logo=audacity&logoColor=225bff"/>
+<img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=5865F2"/>
+<img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/GoogleCloud-white?style=for-the-badge&logo=googlecloud&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/Google%20Meet-white?style=for-the-badge&logo=google-meet&logoColor=00897B"/>
+<img src="https://img.shields.io/badge/Linux-white?style=for-the-badge&logo=linux&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/mac%20os-white?style=for-the-badge&logo=apple&logoColor=black"/>
+<img src="https://img.shields.io/badge/Sketch-white?style=for-the-badge&logo=sketch&logoColor=FFB387"/>
+<img src="https://img.shields.io/badge/Slack-white?style=for-the-badge&logo=slack&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/Ubuntu-white?style=for-the-badge&logo=ubuntu&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/Windows-white?style=for-the-badge&logo=windows&logoColor=563D7C" />
+<img src="https://img.shields.io/badge/Zoom-white?style=for-the-badge&logo=zoom&logoColor=2D8CFF"/>
 
 ### **Contact:**
 
