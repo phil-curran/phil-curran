@@ -56,7 +56,7 @@ Please find me on <a href="https://www.linkedin.com/in/philcurran/" target="_bla
 ### **Contact:**
 
 <a href="https://www.linkedin.com/in/philcurran/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=1572B6"/></a>
-<a href="mailto:pecurran@hotmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
+<a href="mailto:pecurran@outlook.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=D14836" /></a>
 
 ### **Coding stats:**
 
