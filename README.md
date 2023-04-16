@@ -2,9 +2,13 @@
 
 ## 📖 &nbsp;About Me
 
-I'm currently enrolled in <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> learning full-stack web development, and working towards the goal of becoming a software developer.
+Front-end developer with over a decade of experience seeking front-end roles.
 
-I'm also a leader in the instructional design and educational technology space, having worked for startups and several 'big 10' universities across the country, developing online learning content that's touched thousands of students all over the world.
+I recently completed a 10-month part-time Full-Stack Developer Bootcamp with <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> in Seattle.  There I was able to formalize and improve the front-end development skills I'd been using for nearly a decade in the instructional design world.
+
+Since completing Epicodus, I've continued my learning by building projects with React, React-Router, Redux, Express, MongoDB, Supabase, Firebase, Node.js, Python & Flask / Django, and many others.  Head over to <a href="https://phil-curran.github.io/" target="_blank">https://phil-curran.github.io/</a> to learn more about them.
+
+I'm also a leader in the instructional design and educational technology space, having worked for startups and several 'Big 10' universities across the country, developing award-winning online learning content that's touched thousands of students all over the world.
 
 Please find me on <a href="https://www.linkedin.com/in/philcurran/" target="_blank">LinkedIn</a> for more info about my work and professional interests.
 
